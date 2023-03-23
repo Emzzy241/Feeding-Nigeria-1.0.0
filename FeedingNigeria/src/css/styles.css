@@ -403,6 +403,7 @@ body {
     padding: 15px 0;
     border-radius: 4px;
 }
+
 .team .team-1 h4{
     font-weight: bold;
     margin-bottom:10px;
@@ -438,7 +439,7 @@ body {
     color:#fff;
 }
 .team .team-1 .social i{
-    font-size:16px;
+    font-size: 96px;
     margin: 0 2px;
 }
 @media (max-width: 992px){

@@ -7,6 +7,16 @@ import 'animate.css';
 // import 'fortawesome';
 // import 'fortawesome@6.2.0'
 
+
+// import fontawesome from "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+// import regular from "@fortawesome/fontawesome-free/scss/regular.scss";
+// import solid from "@fortawesome/fontawesome-free/scss/solid.scss";
+// import brands from "@fortawesome/fontawesome-free/scss/brands.scss";
+
+// importing the all.css and all.js to enable me to use social media icons
+import "@fortawesome/fontawesome-free/js/all.js";
+import "@fortawesome/fontawesome-free/css/all.css";
+
 // Importing all of my app-images
 
 import jsBadgeImg from "./assets/images/js-badge.svg";
